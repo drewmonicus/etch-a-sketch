@@ -1,0 +1,21 @@
+
+.flex-container {
+    display:flex;
+    flex-direction:column;
+    background-color:#FF6347;
+    align-items:center;
+    height:800px;
+}
+
+.board {
+    height:600px;
+    width:600px;    
+    display:grid;
+}
+
+.title {
+    padding: 10px;
+    vertical-align: middle;
+    font-size: 30px;
+    font-family: "copperplate"
+}
